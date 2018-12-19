@@ -1,5 +1,5 @@
 # pileouface
-A bash script to flip coins :)
+A bash script to flip coins ($)
 
 usage :
 
